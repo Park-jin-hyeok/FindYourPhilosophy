@@ -1,0 +1,9 @@
+# Ignore specific directories
+BoidAsset/
+LowPolyAsset/
+LowPolyAquaticAnimals/
+# Ignore specific files
+*.meta
+*.config
+*.shader
+packages.config
