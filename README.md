@@ -67,6 +67,8 @@ Uncanny_off-axis-projection-unity-master 디렉토리에서 유니티 프로젝�
 
 4. 눈과 입 애니메이션 설정
 다음 유니티 프로젝트를 실행합니다:
+api키 변수에 자신의 네이버 tts , stt api키를 넣습니다
+컴퓨터에 auth.json 파일을 만들고 gpt api키를 적어넣습니다.
 
 Uncanny_Mouth_FinalRender
 CapstoneRenew
