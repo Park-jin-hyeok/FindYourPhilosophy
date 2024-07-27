@@ -1,0 +1,21 @@
+### Uncanny Assessment
+
+**Topic 1: Existence and Reality (Skeptical 0-7, Positive 8-15)**
+- Score: 12
+- Explanation: 사용자는 실질적인 문제에 직면한 상황에서 자신의 현실을 중요시합니다. 졸업 및 취업과 같은 현실적인 문제를 먼저 해결하려는 모습에서 긍정적 현실 인식을 보입니다.
+
+**Topic 2: Free Will (Deterministic 0-7, Libertarian 8-15)**
+- Score: 10
+- Explanation: 사용자는 미래의 결과에 대해 궁금해하고 스스로 노력을 통해 변화를 만들어 낼 수 있는 가능성을 믿고 있습니다. 이는 자유 의지에 대해 비교적 높은 신념을 가지고 있음을 나타냅니다.
+
+**Topic 3: Ethics (Moral Relativism 0-7, Moral Absolutism 8-15)**
+- Score: 8
+- Explanation: 사용자가 취업 후 어떤 가치를 추구할지 궁금해하는 질문에 대해 답하지는 않았지만, 이러한 질문 자체가 이미 도덕적 절대주의에 대한 일말의 신념을 가지고 있음을 시사합니다.
+
+**Topic 4: Knowledge and Epistemology (Empiricism 0-7, Rationalism 8-15)**
+- Score: 7
+- Explanation: 사용자는 자신이 시험 준비를 어떻게 하고 있는지 묻는 질문에 대답하지 않았지만, 이는 경험과 실증적 지식을 통해 현재 상황을 판단하고 있을 가능성이 있습니다.
+
+**Topic 5: Meaning of Life (Nihilism 0-7, Existentialism 8-15)**
+- Score: 9
+- Explanation: 졸업 후 취업을 통해 어떤 가치를 찾으려 하는지 질문받았을 때, 사용자 자신이 일을 통해 자신의 의미를 찾으려 한다는 존재주의적 성향을 보입니다.
