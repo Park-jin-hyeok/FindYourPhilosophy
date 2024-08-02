@@ -1,0 +1,2077 @@
+[알림] .py file 실행 output at 2024-06-28 오전 10:49:11:
+
+[알림] .py file 실행 error at 2024-06-28 오전 10:49:11:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 3, in <module>
+    from fpdf import FPDF
+ModuleNotFoundError: No module named 'fpdf'
+
+[알림] .py file 실행 output at 2024-06-28 오전 10:52:44:
+
+[알림] .py file 실행 error at 2024-06-28 오전 10:52:44:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:03:31:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:03:31:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:05:12:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:05:12:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:10:43:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:10:43:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:15:57:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:15:57:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:20:11:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:20:11:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:45:02:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:45:02:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:46:29:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:46:29:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:47:57:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:47:57:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:54:03:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:54:03:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오전 11:55:34:
+
+[알림] .py file 실행 error at 2024-06-28 오전 11:55:34:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:03:23:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:03:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:04:51:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:04:51:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:13:29:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:13:29:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:18:56:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:18:56:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:27:50:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:27:50:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:34:48:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:34:48:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:39:11:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:39:11:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:44:59:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:44:59:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:49:02:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:49:02:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 12:56:53:
+
+[알림] .py file 실행 error at 2024-06-28 오후 12:56:53:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 1:02:09:
+
+[알림] .py file 실행 error at 2024-06-28 오후 1:02:09:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 1:08:25:
+
+[알림] .py file 실행 error at 2024-06-28 오후 1:08:25:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 1:18:23:
+
+[알림] .py file 실행 error at 2024-06-28 오후 1:18:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 1:20:24:
+
+[알림] .py file 실행 error at 2024-06-28 오후 1:20:24:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-28 오후 1:21:33:
+
+[알림] .py file 실행 error at 2024-06-28 오후 1:21:33:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 10:02:08:
+
+[알림] .py file 실행 error at 2024-06-29 오전 10:02:08:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 212, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 70, in parse_msg
+    score = int(re.search(r'\- Score: (\d+)', topic).group(1).strip())
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-29 오전 10:08:06:
+
+[알림] .py file 실행 error at 2024-06-29 오전 10:08:06:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, û, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오전 10:23:15:
+
+[알림] .py file 실행 error at 2024-06-29 오전 10:23:15:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오전 10:35:57:
+
+[알림] .py file 실행 error at 2024-06-29 오전 10:35:57:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 10:50:04:
+
+[알림] .py file 실행 error at 2024-06-29 오전 10:50:04:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:14:08:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:14:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:25:51:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:25:51:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:25:53:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:25:53:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:30:43:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:30:43:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ¿, ��, ��, ��, ��, ��, ��, Ȳ
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:35:59:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:35:59:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:38:01:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:38:01:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:39:45:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:39:45:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:45:43:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:45:43:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:50:58:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:50:58:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오전 11:56:03:
+
+[알림] .py file 실행 error at 2024-06-29 오전 11:56:03:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:04:15:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:04:15:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:11:05:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:11:05:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:12:57:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:12:57:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:18:08:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:18:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:22:35:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:22:35:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:26:14:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:26:14:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:27:21:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:27:21:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:36:28:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:36:28:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:44:11:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:44:11:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 12:56:40:
+
+[알림] .py file 실행 error at 2024-06-29 오후 12:56:40:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:01:13:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:01:13:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:04:34:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:04:34:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:09:42:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:09:42:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:14:10:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:14:10:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:16:44:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:16:44:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:22:11:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:22:11:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:27:21:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:27:21:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:30:22:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:30:22:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:33:54:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:33:54:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:36:52:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:36:52:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:42:25:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:42:25:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:44:15:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:44:15:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:48:27:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:48:27:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:52:08:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:52:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 1:56:30:
+
+[알림] .py file 실행 error at 2024-06-29 오후 1:56:30:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:02:23:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:02:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ħ, ��, ó, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ů, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ȯ, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ȳ, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ž, ��, ��, ��, Ÿ, ��, ��, ��, ��, ��, ã, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:12:19:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:12:19:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:15:08:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:15:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:18:40:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:18:40:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:22:07:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:22:07:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:29:10:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:29:10:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:33:52:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:33:52:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:42:31:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:42:31:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:47:19:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:47:19:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:50:32:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:50:32:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:52:51:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:52:51:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 2:56:38:
+
+[알림] .py file 실행 error at 2024-06-29 오후 2:56:38:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:02:14:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:02:14:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:06:46:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:06:46:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:10:24:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:10:24:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:14:52:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:14:52:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:18:08:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:18:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:20:27:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:20:27:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\10.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:25:48:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:25:48:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:32:47:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:32:47:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:37:58:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:37:58:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:44:02:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:44:02:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:48:34:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:48:34:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:53:29:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:53:29:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 3:59:06:
+
+[알림] .py file 실행 error at 2024-06-29 오후 3:59:06:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:04:29:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:04:29:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:07:32:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:07:32:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:16:10:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:16:10:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:20:19:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:20:19:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:21:26:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:21:26:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:25:00:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:25:00:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:29:15:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:29:15:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:31:38:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:31:38:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:33:10:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:33:10:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:34:16:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:34:16:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:38:23:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:38:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:40:29:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:40:29:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:45:32:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:45:32:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:48:37:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:48:37:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:53:06:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:53:06:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:55:44:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:55:44:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 4:58:42:
+
+[알림] .py file 실행 error at 2024-06-29 오후 4:58:42:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:02:23:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:02:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:07:09:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:07:09:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:11:04:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:11:04:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:15:46:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:15:46:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:20:51:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:20:51:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 212, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 62, in parse_msg
+    topic_name = topic_name_match.group(1).strip()
+                 ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:23:45:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:23:45:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:28:22:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:28:22:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:28:57:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:28:57:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:32:00:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:32:00:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:35:25:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:35:25:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:38:38:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:38:38:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:41:55:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:41:55:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:45:03:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:45:03:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:48:32:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:48:32:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:50:51:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:50:51:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 5:57:41:
+
+[알림] .py file 실행 error at 2024-06-29 오후 5:57:41:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ȣ, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 6:02:08:
+
+[알림] .py file 실행 error at 2024-06-29 오후 6:02:08:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:18:42:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:18:42:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:20:30:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:20:30:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:21:06:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:21:06:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:21:46:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:21:46:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:22:46:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:22:46:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:24:33:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:24:33:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:24:34:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:24:34:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:24:51:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:24:51:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:28:36:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:28:36:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:29:16:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:29:16:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:38:48:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:38:48:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\0.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:43:11:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:43:11:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:48:55:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:48:55:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 212, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 73, in parse_msg
+    explanation = re.search(r'\- Explanation: (.*?)(?=(\*\*|$))', topic, re.DOTALL).group(1).strip()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:53:05:
+
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:53:05:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:54:14:
+
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:54:14:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:55:03:
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:55:03:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 212, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 70, in parse_msg
+    score = int(re.search(r'\- Score: (\d+)', topic).group(1).strip())
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:55:48:
+
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:55:48:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:56:23:
+
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:56:23:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 217, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 144, in plot_pentagon_scores_adjusted
+    make_image_transparent(extra_image_path, transparent_image_path, 0.2) 
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 48, in make_image_transparent
+    img = Image.open(input_path).convert("RGBA")
+          ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\anaconda3\Lib\site-packages\PIL\Image.py", line 3247, in open
+    fp = builtins.open(filename, "rb")
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\CAU\\CapStone\\phil\\.png'
+
+[알림] .py file 실행 output at 2024-06-29 오후 8:59:03:
+01100
+
+[알림] .py file 실행 error at 2024-06-29 오후 8:59:03:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 9:05:09:
+01000
+
+[알림] .py file 실행 error at 2024-06-29 오후 9:05:09:
+C:\Users\CAU\Capstone\print_result.py:136: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 9:09:00:
+10000
+
+[알림] .py file 실행 error at 2024-06-29 오후 9:09:00:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 9:10:20:
+01001
+
+[알림] .py file 실행 error at 2024-06-29 오후 9:10:20:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+
+[알림] .py file 실행 output at 2024-06-29 오후 9:17:59:
+10010
+
+[알림] .py file 실행 error at 2024-06-29 오후 9:17:59:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ȯ, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ÿ, ��, ��, ��, ��, ��, ��, ��, ȣ, ��, ��, ��, ��, ��, Ž, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-29 오후 9:19:30:
+00000
+
+[알림] .py file 실행 error at 2024-06-29 오후 9:19:30:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Arial', '', 'C:\\WINDOWS\\FONTS\\ARIAL.ttf', uni=True)
+Font MPDFAA+Arial is missing the following glyphs: ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ȯ, ��, ��, ��, Ÿ, ��, ��, ��, ��, ��, ��, ��, ��, ȣ, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, Ž, ��, ��, ��, ��, ��, ��, ��, ��, ��, ü, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��, ��
+
+[알림] .py file 실행 output at 2024-06-30 오전 2:19:02:
+01000
+
+[알림] .py file 실행 error at 2024-06-30 오전 2:19:02:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 4:09:04:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오전 4:09:04:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 10:58:42:
+
+
+[알림] .py file 실행 error at 2024-06-30 오전 10:58:42:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:02:59:
+01101
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:02:59:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:07:32:
+
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:07:32:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:09:33:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:09:33:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:12:37:
+01000
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:12:37:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:16:15:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:16:15:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:18:41:
+10110
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:18:41:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:25:21:
+01000
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:25:21:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:34:19:
+00011
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:34:19:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:40:49:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:40:49:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:45:54:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:45:54:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오전 11:50:54:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오전 11:50:54:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:00:35:
+
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:00:35:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:04:16:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:04:16:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:11:00:
+00011
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:11:00:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:17:12:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:17:12:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:25:00:
+00101
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:25:00:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:28:08:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:28:08:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:34:02:
+11001
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:34:02:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:38:09:
+01010
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:38:09:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:40:47:
+
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:40:48:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:47:08:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:47:08:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 12:57:21:
+00100
+
+[알림] .py file 실행 error at 2024-06-30 오후 12:57:21:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:02:06:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:02:06:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:10:20:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:10:20:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:15:15:
+01011
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:15:15:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:19:37:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:19:37:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:22:49:
+01001
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:22:49:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:30:29:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:30:29:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:34:56:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:34:56:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:39:58:
+00100
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:39:58:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:42:39:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:42:39:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:45:51:
+00010
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:45:51:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:51:27:
+01000
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:51:27:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 1:56:54:
+
+[알림] .py file 실행 error at 2024-06-30 오후 1:56:54:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 214, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 73, in parse_msg
+    explanation = re.search(r'\- Explanation: (.*?)(?=(\*\*|$))', topic, re.DOTALL).group(1).strip()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:00:06:
+11011
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:00:06:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:02:05:
+10101
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:02:05:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:04:54:
+00100
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:04:54:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:16:05:
+01111
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:16:05:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:20:36:
+
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:20:36:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:23:08:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:23:08:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:28:03:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:28:03:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:31:12:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:31:12:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:36:52:
+01011
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:36:52:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:41:35:
+00010
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:41:35:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:46:46:
+00100
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:46:46:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:51:31:
+11011
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:51:31:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:54:01:
+01011
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:54:01:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 2:57:17:
+11101
+
+[알림] .py file 실행 error at 2024-06-30 오후 2:57:17:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:01:33:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:01:33:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:07:46:
+11011
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:07:46:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:13:32:
+11001
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:13:32:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:17:47:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:17:47:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:23:08:
+01101
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:23:08:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:31:33:
+00001
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:31:33:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:34:59:
+10000
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:34:59:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:40:26:
+00001
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:40:26:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:44:53:
+01011
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:44:53:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:48:10:
+01001
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:48:10:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:51:36:
+11011
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:51:36:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:58:19:
+
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:58:19:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오후 3:58:23:
+10
+
+[알림] .py file 실행 error at 2024-06-30 오후 3:58:23:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 219, in <module>
+    is_done = plot_pentagon_scores_adjusted(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\print_result.py", line 88, in plot_pentagon_scores_adjusted
+    del explanations[4]
+        ~~~~~~~~~~~~^^^
+IndexError: list assignment index out of range
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:03:24:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:03:24:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:08:04:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:08:04:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:12:44:
+00101
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:12:44:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:16:26:
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:16:26:
+Traceback (most recent call last):
+  File "C:\Users\CAU\Capstone\print_result.py", line 214, in <module>
+    name_ls, name2both_extreme_name, name2score, name2explanation = parse_msg(message) 
+                                                                    ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\CAU\Capstone\message_parse.py", line 73, in parse_msg
+    explanation = re.search(r'\- Explanation: (.*?)(?=(\*\*|$))', topic, re.DOTALL).group(1).strip()
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'group'
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:21:02:
+10011
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:21:02:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:24:51:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:24:51:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:33:33:
+10011
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:33:33:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:35:28:
+01101
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:35:28:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:40:42:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:40:42:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:43:25:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:43:25:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:46:36:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:46:36:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:51:14:
+00101
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:51:14:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 4:56:37:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 4:56:37:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:03:35:
+01001
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:03:35:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:07:25:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:07:25:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:11:26:
+10000
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:11:26:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:16:43:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:16:43:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:23:12:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:23:12:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:27:37:
+00000
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:27:37:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:31:18:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:31:18:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:36:10:
+10001
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:36:10:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:39:08:
+10010
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:39:08:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:46:25:
+11011
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:46:25:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
+[알림] .py file 실행 output at 2024-06-30 오후 5:49:50:
+11101
+
+[알림] .py file 실행 error at 2024-06-30 오후 5:49:50:
+C:\Users\CAU\Capstone\print_result.py:138: DeprecationWarning: "uni" parameter is deprecated since v2.5.1, unused and will soon be removed
+  pdf.add_font('Malgun Gothic', '', 'C:/Windows/Fonts/malgun.ttf', uni=True)
+MERG NOT subset; don't know how to subset; dropped
+
